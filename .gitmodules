@@ -1,0 +1,3 @@
+[submodule "dataModel.Device"]
+	path = dataModel.Device
+	url = https://github.com/smart-data-models/dataModel.Device.git

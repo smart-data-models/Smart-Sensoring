@@ -1,6 +1,3 @@
-[submodule "dataModel.OCF"]
-	path = dataModel.OCF
-	url = https://github.com/smart-data-models/dataModel.OCF.git
 [submodule "dataModel.Device"]
 	path = dataModel.Device
 	url = https://github.com/smart-data-models/dataModel.Device.git

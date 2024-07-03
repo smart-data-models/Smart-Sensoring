@@ -11,7 +11,7 @@ The Smart Data Models board (FIWARE Foundation, TM Forum, OASC and IUDX) are lea
 This GitHub repository contains links to the repositories where different groups or data models are contained. Data models are documented in JSON Schemas and automatic documentation is generated based on the schemas. 
 
 
-This respository contains a list of subjects (groups of data models) for managing different aspects of smart cities. The models can be extended if real uses cases are provided and definitions according to the principles of <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">agile standardization</a>. Best place to start is the <a href="https://smartdatamodels.org">main site</a> or the <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">contribution manual</a>.
+This respository contains a list of subjects (groups of data models) for managing different aspects of devices and sensors. The models can be extended if real uses cases are provided and definitions according to the principles of <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">agile standardization</a>. Best place to start is the <a href="https://smartdatamodels.org">main site</a> or the <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">contribution manual</a>.
 
 ## List of subjects
 
